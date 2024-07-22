@@ -1,0 +1,7 @@
+easyocr
+python==3.10.13
+pytube
+yt-dlp
+gunicorn
+re
+ffmpeg
